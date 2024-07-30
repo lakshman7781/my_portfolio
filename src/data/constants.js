@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/lakshman7781",
   resume:
-    "https://drive.google.com/file/d/1U6kpJaz67xr9YRMTm_8LDJevN9Ri8jtG/view?usp=sharing",
+    "https://drive.google.com/file/d/1HLkvt_X5M49D3bQHM4nKkEMxvcH5hLiM/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/lakshman-bhavanam-6b7044259/",
   twitter: "https://twitter.com/lakshmanbhavan7",
   insta: "https://www.instagram.com/lakshman_bhavanam/",
